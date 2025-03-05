@@ -32,7 +32,7 @@ O "Jogo Amigo Secreto" é um desafio proposto pela Alura na Formação ONE - Ora
 <br>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/74ab7f07-639d-4de7-8444-59ff100427cf" alt="img challenge" width="500" />
+  <img src="https://github.com/user-attachments/assets/d03adc83-4dd4-4afb-9cc0-0c17acc3e84c" alt="img challenge" width="500" />
 </div>
 
 

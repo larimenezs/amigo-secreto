@@ -28,9 +28,8 @@ O "Jogo Amigo Secreto" é um desafio proposto pela Alura na Formação ONE - Ora
    cd challenge-amigo-secreto
 
 3. Abra o arquivo index.html em um navegador de sua escolha para visualizar a aplicação funcionando.
-<br>
-https://larimenezs.github.io/challenge-amigo-secreto
 
+<br>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/74ab7f07-639d-4de7-8444-59ff100427cf" alt="img challenge" width="500" />
